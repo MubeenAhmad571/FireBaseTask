@@ -1,0 +1,2 @@
+rootProject.name='FireBaseTask'
+include ':app'
